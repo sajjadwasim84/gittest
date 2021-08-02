@@ -60,5 +60,4 @@ output "instance_ips" {
   #value = ["${aws_instance.default.public_ip}"]
   value = "PublicIP: ${aws_instance.default.public_ip} , PrivateIP: ${aws_instance.default.private_ip}"
 
-
-sdfdfd}
+sajjad
